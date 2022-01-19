@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+#wrapper {
+  display: flex;
+}
+
+#filters-wrap {
+  width: 200px;
+  height: 500px;
+  background-color: green;
+}
+
+.card {
+  width: 200px;
+  height: 500px;
+  background-color: greenyellow;
+}
